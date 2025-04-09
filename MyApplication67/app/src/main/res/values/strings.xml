@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Today Task</string>
+    <string name="new_task">New Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="splash_logo">Logo for Splash Screen</string>
+    <string name="due_date_format">Due: %s</string>
+    <string name="task_due_title">Task Due!</string>
+    <string name="notification_channel_description">Channel for task reminders</string>>
+    <string name="undated_label">Undated</string>
+
+</resources>

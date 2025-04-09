@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Trò chơi leo núi</string>
+        <string name="score_text"> %1$d</string>
+        <string name="button_climb">Leo</string>
+        <string name="button_fall">Ngã</string>
+        <string name="button_reset">Chơi lại</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">asm2</string>
+    <string name="welcome_to_miqui_studio">Welcome to Miqui Studio</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="rent">Rent</string>
+    <string name="instrument_image">Instrument Image</string>
+    <string name="wallet_icon">wallet Icon</string>
+    <string name="app_logo">App Logo</string>
+    <string name="quantity">Quantity</string>
+    <string name="rental_period">Rental Period</string>
+</resources>
